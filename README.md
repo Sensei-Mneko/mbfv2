@@ -6,9 +6,9 @@
   <br>
   Multi brute force Facebook
 </h4>
-<p align="center">
- <img src="https://github.com/dz-id/mbf/blob/master/screenshot/1.png" width="640" title="ScreenShot" alt="ScreenShot">
-</p>
+<!--<p align="center">
+ <img src="" width="640" title="ScreenShot" alt="ScreenShot">
+</p>-->
 
 ### Fitures
 ```
@@ -26,7 +26,7 @@
 ### Install
 ```
 pkg install python git
-git clone https://github.com/Sensei-Mneko/mbf
+git clone https://github.com/Sensei-Mneko/mbfv2
 python -m pip install -r mbf/requirements.txt
 ```
 ### And run this script
